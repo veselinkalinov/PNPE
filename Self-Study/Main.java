@@ -1,20 +1,15 @@
 public class Main {
     public static void main(String[] args) {
-        int a = 9;
-        int b = 2;
+        System.out.println("Start");
 
-        double result = (double) a / b;
-        int rest = a % b;
-
-        System.out.println(result);
-        System.out.println(rest);
-
-        if (a % b == 0) {
-            System.out.println("Divisible");
+        for (int i = 0; i < 2; i++) {
+            printMessage();
         }
 
-        else {
-            System.out.println("Not divisible");
-        }
+        System.out.println("End");
+    }
+
+    public static void printMessage() {
+        System.out.println("Learning Java");
     }
 }
