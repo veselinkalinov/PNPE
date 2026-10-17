@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExamResults",
+            "request": "launch",
+            "mainClass": "ExamResults",
+            "projectName": "PNPE_74b91cf5"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "PNPE_74b91cf5"
+        },
+        {
+            "type": "java",
+            "name": "Run Main (Self-Study 17.10.2026)",
+            "request": "launch",
+            "mainClass": "Main",
+            "cwd": "${workspaceFolder}/Self-Study/17.10.2026",
+            "projectName": "PNPE"
+        }
+    ]
+}
