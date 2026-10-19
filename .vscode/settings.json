@@ -2,5 +2,27 @@
     "git.ignoreLimitWarning": true,
     "java.project.sourcePaths": [],
     "java.server.launchMode": "LightWeight",
-    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx4G -Xms100m -Xlog:disable"
+    "java.debug.settings.enableRunDebugCodeLens": false,
+    "java.jdt.ls.java.home": "C:/Users/vesko/AppData/Local/Programs/Microsoft/OpenJDK/jdk-25.0.4.1+1",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "C:/Program Files/Eclipse Adoptium/jdk-21.0.12.101-hotspot",
+            "default": true
+        }
+    ],
+    "java.import.exclusions": [
+        "**/node_modules/**",
+        "**/.metadata/**",
+        "**/archetype-resources/**",
+        "**/META-INF/maven/**",
+        "**/Lectures/**"
+    ],
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx4G -Xms100m -Xlog:disable",
+    "code-runner.executorMap": {
+        "java": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -NoProfile -File \"$workspaceRoot/.vscode/run-java.ps1\" -SourceFile $fullFileName"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.ignoreSelection": true
 }
