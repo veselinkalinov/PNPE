@@ -1,3 +1,5 @@
+package Lab.Lab_3.Vehicle;
+
 public class Car extends Vehicle implements IsLandVehicle {
     private double kW;
 

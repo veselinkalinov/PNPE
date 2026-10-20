@@ -1,3 +1,5 @@
+package Lab.Lab_3.Vehicle;
+
 public class Ship extends Vehicle implements IsSeaVessel {
     private double deadweight;
 

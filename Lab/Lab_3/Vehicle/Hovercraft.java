@@ -1,3 +1,5 @@
+package Lab.Lab_3.Vehicle;
+
 public class Hovercraft extends Vehicle implements IsLandVehicle, IsSeaVessel {
     private int passengers;
 

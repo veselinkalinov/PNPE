@@ -12,8 +12,16 @@ public class Test {
         p2.sayHi();
 
         Student s = new Student("Iva", "061231123", "121223123");
-
         System.out.println(s.getName());
         s.sayHi();
+
+        Course c1 = new Course("Java", 10);
+        Course c2 = new Course("Math", 13);
+
+        c2.setName("Databases");
+
+        System.out.println(c1.getName());
+        System.out.println(c2.getName());
+
     }
 }

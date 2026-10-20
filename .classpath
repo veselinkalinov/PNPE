@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="src" path="" excluding="bin/|out/|.git/|.idea/|.vscode/|Lectures/|Lab/Lab_3/Patient/|Lab/Lab_3/Vacation/|Self-Study/17.10.2026/"/>
+    <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21"/>
+    <classpathentry kind="output" path="bin"/>
+</classpath>

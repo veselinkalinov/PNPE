@@ -1,3 +1,5 @@
+package Lab.Lab_3.Vehicle;
+
 public abstract class Vehicle {
     private double maxspeed;
     private String model;

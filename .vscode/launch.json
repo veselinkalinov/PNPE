@@ -1,4 +1,12 @@
 {
     "version": "0.2.0",
-    "configurations": []
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Lab.Lab_2.Test",
+            "projectName": "PNPE"
+        }
+    ]
 }

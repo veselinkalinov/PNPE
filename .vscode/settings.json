@@ -1,8 +1,8 @@
 {
     "git.ignoreLimitWarning": true,
-    "java.project.sourcePaths": [],
-    "java.server.launchMode": "LightWeight",
-    "java.debug.settings.enableRunDebugCodeLens": false,
+    "java.server.launchMode": "Standard",
+    "java.debug.settings.enableRunDebugCodeLens": true,
+    "java.debug.settings.console": "integratedTerminal",
     "java.jdt.ls.java.home": "C:/Users/vesko/AppData/Local/Programs/Microsoft/OpenJDK/jdk-25.0.4.1+1",
     "java.configuration.runtimes": [
         {
