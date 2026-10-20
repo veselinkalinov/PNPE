@@ -1,3 +1,5 @@
+package Lab.Lab_3.Vehicle;
+
 public class Main {
     public static void main(String[] args) {
         Car car = new Car(220, "BMW", 50000, 150);
