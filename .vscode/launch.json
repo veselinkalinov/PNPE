@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Zadacha4",
+            "request": "launch",
+            "mainClass": "Lab.Lab_4.Zadacha4",
+            "projectName": "PNPE"
+        },
+        {
+            "type": "java",
+            "name": "Zadacha2",
+            "request": "launch",
+            "mainClass": "Lab.Lab_4.Zadacha2",
+            "projectName": "PNPE"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
