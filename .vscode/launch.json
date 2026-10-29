@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Sem.Sem_2.ObrabotkaNaPlashtania.Main",
+            "projectName": "PNPE"
+        },
+        {
+            "type": "java",
             "name": "Zadacha4",
             "request": "launch",
             "mainClass": "Lab.Lab_4.Zadacha4",
